@@ -1,0 +1,14 @@
+AI Usage Log for Mood Journal App (React Native + Supabase)
+===========================================================
+
+AI Assistant: ChatGPT (OpenAI)
+Purpose: Plan project architecture and connect the mobile app with Supabase.
+Summary: Received guidance on how to structure the React Native app, create the Supabase table, set up RLS policies, and test database integration.
+
+AI Assistant: ChatGPT (OpenAI)
+Purpose: Improve mood classification logic and UI decisions.
+Summary: Used the assistant to brainstorm mood categories, define classification rules, and decide on color-coding for each mood type.
+
+AI Assistant: ChatGPT (OpenAI)
+Purpose: Improve validation and documentation.
+Summary: Assistant provided suggestions for preventing empty notes, avoiding conflicting moods, writing a clear README, and organizing the project workflow.
