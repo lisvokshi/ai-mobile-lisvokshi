@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-native-paper": "4.9.2",
+    "@expo/vector-icons": "15.0.3",
+    "@supabase/supabase-js": "2.41.1",
+    "@react-native-community/datetimepicker": "8.4.4"
+  }
+}
